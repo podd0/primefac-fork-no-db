@@ -16,7 +16,7 @@ factoring_methods = {
   "ecm": _primefac.ecm,
   "mpqs": _primefac.mpqs,
   "fermat": _primefac.fermat,
-  "factordb": _primefac.factordb
+#  "factordb": _primefac.factordb
 }
 
 # Note that the multiprocing incurs relatively significant overhead.
